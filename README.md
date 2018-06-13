@@ -8,7 +8,7 @@ First, developers building applications that need to interact with your applicat
 
 **To create a Client you have to do the following:**
 
-- Register a user on the api credentials web site. https://mashr-tools.com/credentials/public
+- Register a user on the api credentials web site.
 - Login
 - Press Create new Client
 
